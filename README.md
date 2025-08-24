@@ -131,12 +131,5 @@ Aragha Gupta
 
 📜 License
 
-This project is licensed under the MIT License – see the LICENSE
- file for details.
-
-
+This project is licensed under the MIT License 
 ---
-
-✅ This is the **complete, polished README.md file** — looks good on GitHub out of the box.  
-
-Do you want me to also prepare the **MIT `LICENSE` file text** so your repo is fully ready for publishing?
